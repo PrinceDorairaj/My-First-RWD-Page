@@ -157,7 +157,7 @@ header h4
 }
 
 .person-img{
-    background-image: url('/img/Elddim.jpg');
+    background-image: url('img/Elddim.jpg');
     background-position:top;
     background-repeat: no-repeat;
     background-size:cover;
