@@ -124,10 +124,20 @@ header h4
     font-weight: lighter;
     color: rgb(63, 63, 63);
 }
+.notes
+{
+    font-size:11.5px !important;
+    font-style: italic;
+}
 @media screen and (max-width:480px) 
 {
     .intro p{
         font-size:12px;
+    }
+
+    .notes
+    {
+        font-size:10px !important;
     }
 
     .intro
@@ -147,6 +157,11 @@ header h4
     .intro p
     {
         font-size:15px;
+    }
+
+    .notes
+    {
+        font-size:12px !important;
     }
 }
 .portrait
